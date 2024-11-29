@@ -1,0 +1,1 @@
+# amazon clone made by me from a youtube tutorial
